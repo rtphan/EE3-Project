@@ -165,6 +165,7 @@ void setup() {
   /* Pin Configuration */
   pinMode(IR1, INPUT);
   pinMode(IR2, INPUT);
+  pinMode(IR3, INPUT);
   pinMode(gLED, OUTPUT);
   pinMode(rLED, OUTPUT);
   pinMode(bLED, OUTPUT);

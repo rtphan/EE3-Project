@@ -288,6 +288,7 @@ void setup() {
   offs[4] = 0;
   pinMode(IR1, INPUT);
   pinMode(IR2, INPUT);
+  pinMode(IR3, INPUT);
 
   pinMode(gLED, OUTPUT);
   pinMode(rLED, OUTPUT);
